@@ -85,7 +85,7 @@ GEMINI_API_KEY=your_api_key_here
    Sau khi cài đặt các thư viện và cấu hình API key, bạn có thể chạy ứng dụng bằng cách sử dụng câu lệnh sau:
 
    ```bash
-   streamlit run main.py
+   streamlit run webapp.py
    ```
 
 2. **Chọn loại input mã nguồn**
