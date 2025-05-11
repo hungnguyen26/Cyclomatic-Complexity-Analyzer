@@ -1,2 +1,5 @@
 streamlit
 matplotlib
+openai
+python-dotenv
+ast
